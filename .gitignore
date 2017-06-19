@@ -1,0 +1,4 @@
+venv
+*.pyc
+teamdate/settings/secret.py
+*.sqlite3
