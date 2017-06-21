@@ -1,3 +1,3 @@
 # Teamdate
 
-## Sharable calendar
+## Shareable calendar
